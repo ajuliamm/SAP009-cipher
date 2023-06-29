@@ -51,7 +51,8 @@ A comunicação por chats de rede social como instagram, facebook ou até mesmo 
 
 ## Screenshot
 
-![](./src/images/layout.png)
+![image](https://github.com/ajuliamm/SAP009-cipher/assets/93016620/33d37627-0dc8-40bd-9daf-6bc7903eb00b)
+
 
 ## Links
 
